@@ -1,4 +1,3 @@
-
                         .88b  d88.  .d88b.   .d88b.  db   dD 
                         88'YbdP`88 .8P  Y8. .8P  Y8. 88 ,8P' 
                         88  88  88 88    88 88    88 88,8P   
@@ -11,7 +10,7 @@
 
 [intro]
 Mook is a tool used to scan for available services through a filtering device
-that uses some for of syn-flood protection. These devices will reply with a 
+that uses some sort of syn-flood protection. These devices will reply with a 
 SYN/ACK to every SYN packet sent. Making it impossible for traditional port
 scanners to detect legitimate services. 
 
